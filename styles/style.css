@@ -34,7 +34,7 @@ video {
 }
 
 h1 {
-    font-family: Raleway-ExtraBold;
+    font-family: Raleway-ExtraBold, sans-serif;
     font-size: 116px;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -55,7 +55,7 @@ h1:hover::before {
     content: "На самом деле нет. \AВажнее &mdash; научиться ошибаться.";
     white-space: pre;
     text-transform: none;
-    font-family: Raleway-Regular;
+    font-family: Raleway-Regular, sans-serif;
     font-size: 35px;
     position: absolute;
     top: 180px;
